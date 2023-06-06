@@ -1,8 +1,8 @@
 # hf.r
 
 # Generation of a  Fault Tree cases demonstrated in a presentation to
-# The 11th IMA International Conference on Modelling in Industrial Maintenance and Reliability
-# 29 June 2021
+# The 12th IMA International Conference on Modelling in Industrial Maintenance and Reliability
+# 4-6 July 2023
 
 require(FaultTree)
 
